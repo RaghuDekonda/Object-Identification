@@ -32,3 +32,10 @@ model.setInputMean((27.5,127,5,127.5))
 model.setInputSwapRB(True)
 ``` 
 ## Input Image
+![boy](https://github.com/RaghuDekonda/Object-Identification/assets/148556000/88b3afb7-e2c0-4bd0-b390-6bfcc2063823)
+
+## Processed Image
+![processed image](https://github.com/RaghuDekonda/Object-Identification/assets/148556000/25ccd48b-aae6-43df-89d6-a9a8d0cbdaa9)
+## Output Image
+![output image](https://github.com/RaghuDekonda/Object-Identification/assets/148556000/5267311c-fc65-497a-8ced-aa6c0317dab5)
+
