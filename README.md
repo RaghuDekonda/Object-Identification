@@ -3,7 +3,7 @@
 OpenCV is a free and open-source software library for computer vision and machine learning.
 The purpose of OpenCV was to provide a common foundation for computer vision applications and to speed up the usage of machine perception in commercial goods.
 
-Object detection is a computer vision mechanic that involves identifying and localizing objects of interest within an image or a video. It is a challenging task as it involves not only recognizing the presence of an object but also detecting its precise location and size within the image or video.
+Object identification is a computer vision mechanic that involves identifying and localizing objects of interest within an image or a video. It is a challenging task as it involves not only recognizing the presence of an object but also detecting its precise location and size within the image or video.
 
 
 
